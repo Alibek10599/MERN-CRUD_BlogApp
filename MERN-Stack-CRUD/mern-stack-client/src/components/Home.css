@@ -1,0 +1,17 @@
+.vlog > h1 {
+    text-align: center;
+    color: red;
+    align-content: center;
+    content: normal;
+    background-color: aquamarine;
+}
+.vlog > h4{
+    text-align: center;
+    color: salmon;
+    background-color: lightgoldenrodyellow;
+}
+.vlog{
+    background-color: lightgoldenrodyellow;
+    backdrop-filter: brightness(10%);
+
+}
